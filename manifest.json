@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "description": "Isikdev",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Taom - Random",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Random ovqat tanlang!",
+  "start_url": "/isikdev.github.io/taom-random/",
+  "theme_color": "#553619",
+  "categories": [
+    "food"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "lang": "uz",
+  "prefer_related_applications": true
+}
